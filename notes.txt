@@ -1,0 +1,1 @@
+App state is state that is shared among multiple components 
